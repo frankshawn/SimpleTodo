@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">任务管理器</string>
+    <string name="menu_about">关于</string>
+    <string name="menu_refresh">刷新</string>
+    <!--about page-->
+    <string name="about_name">姓名：</string>
+    <string name="about_name_value">Shawn Wang</string>
+    <string name="about_csdn">CSDN：</string>
+    <string name="about_csdn_value">http://blog.csdn.net/u011818572?viewmode=contents</string>
+    <string name="about_github">github：</string>
+    <string name="about_github_value">https://github.com/frankshawn</string>
+</resources>
